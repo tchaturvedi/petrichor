@@ -1,4 +1,4 @@
-# Petrichor
+# Petrichor [WIP]
 
 A React component library
 
